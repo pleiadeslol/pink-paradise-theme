@@ -1,0 +1,21 @@
+{
+  "name": "pleiades",
+  "displayName": "pleiades",
+  "description": "extension for the girlies ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "pleiades",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pleiades-color-theme.json"
+      }
+    ]
+  }
+}
